@@ -60,8 +60,8 @@ src/
 1. Clone o repositório:
   git clone https://github.com/Kallel-19/conversor-moedas-java.git
 
-🤝 Contribuições
-Contribuições, sugestões e melhorias são bem-vindas! Sinta-se livre para abrir issues e pull requests.
+### 🤝 Contribuições
+- Contribuições, sugestões e melhorias são bem-vindas! Sinta-se livre para abrir issues e pull requests.
 
-👨‍💻 Autor
-Desenvolvido por Kallel Vieira dos Santos. 🚀
+### 👨‍💻 Autor
+- Desenvolvido por Kallel Vieira dos Santos. 🚀
